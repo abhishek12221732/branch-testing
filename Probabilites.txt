@@ -1,0 +1,41 @@
+Sure, here are the approximate probabilities of having at least one success for each number of tries:
+
+- **10 tries:**
+  - Probability of failure in all 10 tries: \( 0.994^{10} \approx 0.940 \)
+  - Probability of at least one success: \( 1 - 0.940 = 0.060 \)
+  - **Approximately 6.0%**
+
+- **20 tries:**
+  - Probability of failure in all 20 tries: \( 0.994^{20} \approx 0.884 \)
+  - Probability of at least one success: \( 1 - 0.884 = 0.116 \)
+  - **Approximately 11.6%**
+
+- **30 tries:**
+  - Probability of failure in all 30 tries: \( 0.994^{30} \approx 0.835 \)
+  - Probability of at least one success: \( 1 - 0.835 = 0.165 \)
+  - **Approximately 16.5%**
+
+- **40 tries:**
+  - Probability of failure in all 40 tries: \( 0.994^{40} \approx 0.790 \)
+  - Probability of at least one success: \( 1 - 0.790 = 0.210 \)
+  - **Approximately 21.0%**
+
+- **50 tries:**
+  - Probability of failure in all 50 tries: \( 0.994^{50} \approx 0.740 \)
+  - Probability of at least one success: \( 1 - 0.740 = 0.260 \)
+  - **Approximately 26.0%**
+
+- **60 tries:**
+  - Probability of failure in all 60 tries: \( 0.994^{60} \approx 0.688 \)
+  - Probability of at least one success: \( 1 - 0.688 = 0.312 \)
+  - **Approximately 31.2%**
+
+- **70 tries:**
+  - Probability of failure in all 70 tries: \( 0.994^{70} \approx 0.645 \)
+  - Probability of at least one success: \( 1 - 0.645 = 0.355 \)
+  - **Approximately 35.5%**
+
+- **80 tries:**
+  - Probability of failure in all 80 tries: \( 0.994^{80} \approx 0.606 \)
+  - Probability of at least one success: \( 1 - 0.606 = 0.394 \)
+  - **Approximately 39.4%**
